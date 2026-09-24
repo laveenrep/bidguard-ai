@@ -1,0 +1,5 @@
+SAMPLE DEMO GST CERTIFICATE
+GSTIN: 33AAECA1234F1Z5
+Legal Name: Apex Industrial Solutions Pvt Ltd
+Status: ACTIVE
+This is synthetic demo evidence for BidGuard AI local testing.
