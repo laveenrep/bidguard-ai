@@ -1,0 +1,13 @@
+BidGuard AI 4.0 - Python 3.14.6
+
+1. Open this project folder in VS Code.
+2. Double-click SETUP_PYTHON_3.14_WINDOWS.bat once.
+3. Double-click START_BACKEND_PYTHON_3.14.bat.
+4. In a second terminal/window, run START_FRONTEND.bat.
+5. Open the Vite URL shown by the frontend (normally http://localhost:5173).
+
+Why this version works differently:
+- It does not use passlib.
+- It uses bcrypt directly.
+- It uses modern FastAPI/Pydantic versions that support CPython 3.14 wheels.
+- Do NOT reuse an old venv from the previous ZIP.
